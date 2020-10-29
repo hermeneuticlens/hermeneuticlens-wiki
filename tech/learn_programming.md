@@ -1,3 +1,7 @@
+
+## Collections
+- [Tutorials Point](https://www.tutorialspoint.com/)
+
 ## JavaScript
 - [**ES6 Tutorial: Learn Modern JavaScript in 1 Hour** by Programming with Mosh](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
 
