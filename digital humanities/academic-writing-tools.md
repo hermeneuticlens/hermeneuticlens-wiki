@@ -25,5 +25,5 @@ https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html
 # Related Resources
 - [I wrote my thesis in Markdown, here’s how it went](https://medium.com/@krzysztofczarnecki/i-wrote-my-thesis-in-markdown-heres-how-it-went-3f60140dfe65)
 - [Academic Markdown and Citations](https://v4.chriskrycho.com/2015/academic-markdown-and-citations.html)
-
+- [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
