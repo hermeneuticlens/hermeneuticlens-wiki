@@ -24,3 +24,15 @@
 ## Options
 - Patrick Boyle, _Trading and Pricing Financial Derivatives: A Guide to Futures, Options, and Swaps_, 2018.
 - Sheldon Natenberg, _Option Volatility and Pricing: Advanced Trading Strategies and Techniques_, 2014.
+
+
+
+
+# Portfolio Ideas
+- [Global X ETFs](https://www.globalxetfs.com/explore/)
+- [ARK Funds](https://ark-funds.com/) (they publish transactions daily.)
+
+
+# Youtube
+- [Trader Talks Webcasts from TD Ameritrade](https://www.youtube.com/channel/UCRKoXeObvJ1BtjHFAMEaXFw)
+- 

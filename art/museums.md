@@ -1,0 +1,4 @@
+-   New York
+    -   Metropolitan Museum of Art
+        -   [1994 Guide Book](https://www.metmuseum.org/art/metpublications/The_Metropolitan_Museum_of_Art_Guide_1994)
+    -   The Cloisters

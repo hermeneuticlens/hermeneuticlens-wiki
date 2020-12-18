@@ -1,4 +1,2 @@
-
-- https://www.theotech.org/
-- https://faithtech.com/
-- https://www.sefaria.org
+- https://postmodernbible.blogs.com/
+- https://j.hn/

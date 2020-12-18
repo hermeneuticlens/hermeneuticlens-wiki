@@ -25,3 +25,7 @@
 - [Teach Me Hebrew](https://www.teachmehebrew.com/)
 - [Hebrew Homepage](http://www.hebrewhomepage.org/)
 - [Hebrew Podcast](https://www.hebrewpodcasts.com/)
+
+## German
+- [German-grammer.de](https://www.german-grammar.de/grammar/content/english_german_table_of_content.htm)
+- [Grammar-University of Wisconsin Madison](https://courses.dcs.wisc.edu/wp/readinggerman/)

@@ -6,7 +6,8 @@
     - [Supervised Classification: The Naive Bayesian Returns to the Old Bailey](https://programminghistorian.org/en/lessons/naive-bayesian)
     - [Generating an Ordered Data Set from an OCR Text File](https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-OCR-text-file)
     - [Counting Word Frequencies with Python](https://programminghistorian.org/en/lessons/counting-frequencies)
-    - 
+    - [Working with batches of PDF files](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files)
+    - [Analyzing Documents with TF-IDF](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf)
 
 
 [HathiTrust Research Center Documentation](https://wiki.htrc.illinois.edu/)

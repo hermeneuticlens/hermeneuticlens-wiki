@@ -22,6 +22,20 @@ https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html
 
 
 
+# PDF Manipulations
+
+## Poppler-tools
+
+- combine pdfs, sorted by numerical order (e.g. intpu1.pdf, input2.pdf, input3.pdf ...):
+`pdfunite ``ls input*.pdf -v`` output.pdf`
+
+## Imagemagick
+
+- reduce pdf sizes:
+`convert -density 150 input.pdf -compress Zip output.pdf`
+
+
+
 # Related Resources
 - [I wrote my thesis in Markdown, here’s how it went](https://medium.com/@krzysztofczarnecki/i-wrote-my-thesis-in-markdown-heres-how-it-went-3f60140dfe65)
 - [Academic Markdown and Citations](https://v4.chriskrycho.com/2015/academic-markdown-and-citations.html)
