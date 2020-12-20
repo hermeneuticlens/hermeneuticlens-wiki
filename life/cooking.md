@@ -1,7 +1,7 @@
 # Recipe - Chinese
 [1] [家常菜](https://www.youtube.com/channel/UCNAfaoF_f7pVx90E6yWgHyg) [2] 美食作家王刚 [3] M3Top [4] 田园时光 [5] 空中厨房 [6] iCook [7] Cooking Life
 
-
+Need to learn: 香菇菜心，糖醋带鱼，虾皮冬瓜，肉末茄子，干煸豆角/四季豆，青椒肉丝，黄豆烧牛肉，青椒土豆丝，红椒炒花菜，鱼香肉丝，蒜蓉西兰花，芦笋杏鲍菇虾仁，笋干炖肉，花椰菜虾仁金针菇宜家肉丸，酱牛肉，[咖喱鸡腿饭](https://www.dealmoon.com/post/351447?ck=56bc3ebe637f7e0fa6798fcdf712cf73)，清蒸鱼，酸辣藕片，紫菜鸡蛋（+金针菇）汤，番茄鸡蛋汤，酸辣汤, 三酱牛肉面 （小高姐），
 
 # Recipes - other
 - Star Market https://www.starmarket.com/recipes/home.html
