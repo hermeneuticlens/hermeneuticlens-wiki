@@ -9,14 +9,14 @@
 
 
 # Learning Investing in general
-- [FactSet Learning](https://learning.factset.com/)
-- [TD Ameritrade Webcasts](https://events.thinkorswim.com/#/webcast)
+-   [FactSet Learning](https://learning.factset.com/)
+-   [TD Ameritrade Webcasts](https://events.thinkorswim.com/#/webcast)
 
 
 
 # Algotrading stuff
-- https://algotrading101.com/
-
+-   https://algotrading101.com/
+-   https://twitter.com/PartTimeLarry
 
 
 # Books
@@ -26,7 +26,8 @@
 - Sheldon Natenberg, _Option Volatility and Pricing: Advanced Trading Strategies and Techniques_, 2014.
 
 
-
+# Articles
+-   [Selling Options basics from r/thetagang](https://www.reddit.com/r/thetagang/wiki/index)
 
 # Portfolio Ideas
 - [Global X ETFs](https://www.globalxetfs.com/explore/)

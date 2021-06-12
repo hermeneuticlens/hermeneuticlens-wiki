@@ -35,6 +35,25 @@ https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html
 `convert -density 150 input.pdf -compress Zip output.pdf`
 
 
+# Skills
+-   Learning how to type fast
+    -   https://www.typingclub.com/
+    -   https://www.typing.com/
+    -   https://www.10fastfingers.com
+    -   https://www.keyhero.com
+    -   https://www.typeracer.com
+    -   https://zty.pe
+    -   https://www.typingtest.com/
+    -   https://www.ratatype.com/learn/
+    -   https://www.keybr.com/
+    -   https://www.typing.academy/
+    -   https://www.keybr.com/ (https://www.youtube.com/watch?v=U8Qc_dzQTJ4)
+    -   https://www.youtube.com/watch?v=D3GcW3GE4wk
+    -   https://www.youtube.com/watch?v=oOdfefV2R1I (focus on accuracy rather than speed. accuracy is more important in the long run.)
+    -   https://www.youtube.com/watch?v=1ArVtCQqQRE
+    -   Control/Option + Backspace
+-   Learning how to read fast
+    -   
 
 # Related Resources
 - [I wrote my thesis in Markdown, here’s how it went](https://medium.com/@krzysztofczarnecki/i-wrote-my-thesis-in-markdown-heres-how-it-went-3f60140dfe65)

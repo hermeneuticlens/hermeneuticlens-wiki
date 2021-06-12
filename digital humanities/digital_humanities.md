@@ -11,3 +11,20 @@
 
 
 [HathiTrust Research Center Documentation](https://wiki.htrc.illinois.edu/)
+
+
+
+
+
+
+
+# Software, apps and extensions
+-   [Inbox When Ready](https://inboxwhenready.org/)
+
+
+# Theo Tech
+-   TheoTech [youtube](https://www.youtube.com/channel/UC6ryn1qEslfysU6E2760RJQ)
+
+# Legal
+## Photocopying and copyright
+-   https://www.american.edu/library/documents/upload/copyright_for_teaching.pdf

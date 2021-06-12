@@ -8,9 +8,9 @@
 * 2010–2014, B.S. in Physics/Computer Science, University of Southern California.
 
 ## Positions
-* Teaching Assistant for a semester-long course “Judaism and Christianity in Dialogue” by Ruth Langer at Boston College (once in Fall 2019 and once in Spring 2020).
+* Teaching Assistant for semester-long course “Judaism and Christianity in Dialogue” by Ruth Langer at Boston College (Fall 2019 and Spring 2020).
 
-* Teaching Assistant for a year-long course “Religious Quest: Comparative Perspective (Christianity and Hinduism)” by Catherine Cornille at Boston College (Fall 2018–Spring 2019).
+* Teaching Assistant for year-long course “Religious Quest: Comparative Perspective (Christianity and Hinduism)” by Catherine Cornille at Boston College (Fall 2018–Spring 2019).
 
 ## Publications
 * “Resurrection and Death: From Rabbinic Understandings to the Theology of Edward Schillebeeckx.” Lumen et Vita: the Graduate Academic Journal of the Boston College School of Theology and Ministry 7.2 (2017).
@@ -23,6 +23,9 @@
 * “The Interreligious Eschatology of 'Serve Him Shoulder to Shoulder' in Nostra Aetate: A Comparative Investigation.” American Academy of Religions National Convention, Denver, CO, November 19, 2018.
 
 * “Identity Formation and Rhetoric in the Jewish 'Three Blessings' and Galatians 3:28: A Comparative Study of Their Historical Backgrounds and Theological Implications.” Engaging Particularities, Boston College, April 2–3 2017.
+
+## Invited Talks
+* "Campus Ministry With Chinese International University Students," The US-China Catholic Association, Campus Engagement Initiative, March 6, 2021.
 
 ## Other Employments and Commitments
 * Boston College Theology Department

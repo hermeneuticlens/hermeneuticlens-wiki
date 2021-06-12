@@ -16,8 +16,17 @@
     -   AAR 2020: rabbinic creative exegesis, especially regarding difficult passages, as a hermeneutics of hope. Hermeneutical creativity is not simply a technique. There is virtue and theological meaning behind such creativity. the (interdependent?) relationship between hope and despair. 
 
 
+# Liturgy
+-   https://www.ou.org/holidays/maoz_tzur_translation_etc/
 
 
 # Websites
 - [mi yodeya](https://judaism.stackexchange.com/)
 - [jcrelations.net](https://www.jcrelations.net/)
+
+## CJ Relations Websites
+-   [American Religion,DABRU EMET: 20 YEARS LATER](https://www.american-religion.org/dabruemet)
+
+## Christian-Jewish Relations Video Lectures
+-   [ICCJ](https://www.youtube.com/channel/UCyE0dYdbXtTvex6z1mKVNQg)
+-   

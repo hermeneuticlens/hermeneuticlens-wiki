@@ -1,0 +1,2 @@
+# Questions
+-   What does it mean for God to hear our prayers? Even when post-Holocaust Jewish thinker concluded that God cannot intervene history directly and, except historical revelations, can only rely on human free will to do so? 
