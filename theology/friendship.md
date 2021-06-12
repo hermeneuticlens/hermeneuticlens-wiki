@@ -23,7 +23,7 @@
 -   Mary E Hunt, _Fierce Tenderness: A Feminist Theology of Friendship_ (1991).
 -   Preston King and Heather Devere, eds., _The Challenge to Friendship in Modernity_ (2000).
 -   Oliver Leaman, ed., _Friendship East and West: Philosophical Perspectives_ (1996).
--   Jon Nixon, _Hannah Arendt and the Politics of Friendship_ (2015). [my notes](book-notes\NIxon-2015-HannahArendtPolitics.html)
+-   Jon Nixon, _Hannah Arendt and the Politics of Friendship_ (2015). [My notes.](\book-notes\NIxon-2015-HannahArendtPolitics.html)
 -   Michael Pakaluk, _Other Selves: Philosophers on Friendship_ (1991).
 -   Leroy S. Rouner, ed., _The Changing Face of Friendship_ (1994).
 -   Paul J. Wadell, _Friendship and the Moral Life_ (1989), and _Becoming Friends: Worship, Justice, and the Practice of Christian Friendship_ (2002).
