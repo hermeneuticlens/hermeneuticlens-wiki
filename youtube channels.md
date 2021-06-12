@@ -1,6 +1,3 @@
-# Cooking
-See [[life/cooking]]
-
 # Finance
 -   [The Market is Open](https://www.youtube.com/channel/UC_MiX28ydqzqEERnt0qzkdg)
 -   [The Plain Bagel](https://www.youtube.com/watch?v=QvBvbGylBMk)
@@ -49,4 +46,3 @@ See [[life/cooking]]
 -   [DW Documentaries](https://www.youtube.com/channel/UCW39zufHfsuGgpLviKh297Q)
 -   [ColdFusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A)
 -   [SLICE](https://www.youtube.com/channel/UCvziXdVCN7PMdFZEFZ6aEqQ)
-
